@@ -1,0 +1,14 @@
+# Dependencies
+node_modules
+
+# Next.js
+.next
+out
+build
+
+# Generated files
+next-env.d.ts
+package-lock.json
+
+# Public assets
+public/games/
